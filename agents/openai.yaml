@@ -1,0 +1,4 @@
+interface:
+  display_name: "总控审查官之贵模审查-便宜执行"
+  short_description: "高能力 AI 负责规划审查，低成本 AI 负责执行。"
+  default_prompt: "作为总控审查官，审查执行 AI 的交付结果，并生成下一步可复制指令。"
